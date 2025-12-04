@@ -1,0 +1,248 @@
+{
+  "BestSale": [
+    {
+      "id": "1",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/9_ef9ab01c-8857-44ef-bc9d-d21b15b02806_1024x1024.jpg?v=1683520567",
+      "name": "Predefinidos Cuando",
+      "price": "180.00",
+      "size": "xl",
+      "vendor": "Imara",
+      "type": "Jeans",
+      "category": "BestSale"
+    },
+    {
+      "id": "2",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/11_1024x1024.jpg?v=1683520558",
+      "name": "Hay New Muchas",
+      "price": "187.00",
+      "size": "lg",
+      "vendor": "Krystle",
+      "type": "Tops",
+      "category": "BestSale"
+    },
+    {
+      "id": "3",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/8_7b26c39f-e860-44ce-b4ae-c2fb12e54ca8_1024x1024.jpg?v=1683520550",
+      "name": "Pensamiento Popular",
+      "price": "258.00",
+      "size": "xl",
+      "vendor": "Generic",
+      "type": "Hot Pant",
+      "category": "BestSale"
+    },
+    {
+      "id": "4",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/6_1024x1024.jpg?v=1683520533",
+      "name": "Como Por Ejemplo",
+      "price": "120.00",
+      "size": "xl",
+      "vendor": "Glus",
+      "type": "Gown",
+      "category": "BestSale"
+    },
+    {
+      "id": "5",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/7_c4304760-c956-48b4-8ea4-549c21533594_1024x1024.jpg?v=1683520517",
+      "name": "Cuando New Impresor",
+      "price": "450.00",
+      "size": "xl",
+      "vendor": "Krystle",
+      "type": "Maxi",
+      "category": "BestSale"
+    },
+    {
+      "id": "6",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/4_546ce3f4-5d76-4b50-8183-3440ebe06670_1024x1024.jpg?v=1683520459",
+      "name": "Aquellos Interesados",
+      "price": "255.00",
+      "size": "xl",
+      "vendor": "Aurelia",
+      "type": "Jeans",
+      "category": "BestSale"
+    },
+    {
+      "id": "7",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/10_d7adbebb-e877-4ac9-a830-ae346cb3d900_1024x1024.jpg?v=1683520408",
+      "name": "Hacen New Parecerlo",
+      "price": "480.00",
+      "size": "xl",
+      "vendor": "Creature",
+      "type": "Maxi",
+      "category": "BestSale"
+    },
+    {
+      "id": "8",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/3_8e0472f1-d378-44b4-8b27-b2bec59be570_1024x1024.jpg?v=1683520401",
+      "name": "Algunas Veces Por",
+      "price": "519.00",
+      "size": "xl",
+      "vendor": "Creature",
+      "type": "Hot Pant",
+      "category": "BestSale"
+    }
+  ],
+  "NewArrival": [
+    {
+      "id": "1",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/13_b51fec82-c1b8-4c2d-8382-f2df4844d4dd_1024x1024.jpg?v=1683520542",
+      "name": "Simplemente Texto",
+      "price": "190.00",
+      "size": "md",
+      "vendor": "Orion",
+      "type": "Maxi",
+      "category": "NewArrival"
+    },
+    {
+      "id": "2",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/2_609d1f7f-5a76-4572-9380-808f40411f7a_1024x1024.jpg?v=1683520510",
+      "name": "Texto New Aleatorio",
+      "price": "100.00",
+      "size": "lg",
+      "vendor": "Creator",
+      "type": "Hot Pant",
+      "category": "NewArrival"
+    },
+    {
+      "id": "3",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/7_76e3fdd1-0553-4add-8f1e-b91ce973638e_1024x1024.jpg?v=1683520452",
+      "name": "Usado Hot Desde",
+      "price": "500.00",
+      "size": "lg",
+      "vendor": "Imara",
+      "type": "Skirt",
+      "category": "NewArrival"
+    },
+    {
+      "id": "4",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/3_7483657b-d7e2-4f26-b1f6-8f0354c2fca5_1024x1024.jpg?v=1683520438",
+      "name": "Texto Por Defecto",
+      "price": "700.00",
+      "size": "md",
+      "vendor": "Generic",
+      "type": "Maxi",
+      "category": "NewArrival"
+    },
+    {
+      "id": "5",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/11_2c635bd9-1940-4599-af3f-3eee5e6a223d_1024x1024.jpg?v=1683520424",
+      "name": "Resultado Muchos",
+      "price": "540.00",
+      "size": "xl",
+      "vendor": "Creator",
+      "type": "Hot Pant",
+      "category": "NewArrival"
+    },
+    {
+      "id": "6",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/10_11b457da-3a04-4551-b0e4-15b81cf012a8_1024x1024.jpg?v=1683520394",
+      "name": "Quedando Esencialmente",
+      "price": "526.00",
+      "size": "lg",
+      "vendor": "Glus",
+      "type": "Gown",
+      "category": "NewArrival"
+    },
+    {
+      "id": "7",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/12_ec7e7dce-ed1c-4cd3-8aa1-71c3e316df11_1024x1024.jpg?v=1683520378",
+      "name": "Variable Product",
+      "price": "400.00",
+      "size": "sm",
+      "vendor": "Krystle",
+      "type": "Jeans",
+      "category": "NewArrival"
+    },
+    {
+      "id": "8",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/9_b490e1f9-103f-4c61-8d52-f5332669d9db_1024x1024.jpg?v=1683520371",
+      "name": "Simple Product",
+      "price": "220.00",
+      "size": "sm",
+      "vendor": "Generic",
+      "type": "Jeans",
+      "category": "NewArrival"
+    }
+  ],
+  "TopRated": [
+    {
+      "id": "1",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/5_a321860c-1ee3-4510-aed4-e51acfe65636_1024x1024.jpg?v=1683520574",
+      "name": "Combinadas Con",
+      "price": "300.00",
+      "size": "xl",
+      "vendor": "Imara",
+      "type": "Jeans",
+      "category": "TopRated"
+    },
+    {
+      "id": "2",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/6_1024x1024.jpg?v=1683520533",
+      "name": "Como Por Ejemplo",
+      "price": "120.00",
+      "size": "xl",
+      "vendor": "Glus",
+      "type": "Gown",
+      "category": "TopRated"
+    },
+    {
+      "id": "3",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/7_c4304760-c956-48b4-8ea4-549c21533594_1024x1024.jpg?v=1683520517",
+      "name": "Cuando New Impresor",
+      "price": "450.00",
+      "size": "xl",
+      "vendor": "Krystle",
+      "type": "Maxi",
+      "category": "TopRated"
+    },
+    {
+      "id": "4",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/1_1024x1024.jpg?v=1683520502",
+      "name": "Adquiera Mas",
+      "price": "150.00",
+      "size": "xl",
+      "vendor": "Generic",
+      "type": "Skirt",
+      "category": "TopRated"
+    },
+    {
+      "id": "5",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/4_546ce3f4-5d76-4b50-8183-3440ebe06670_1024x1024.jpg?v=1683520459",
+      "name": "Aquellos Interesados",
+      "price": "255.00",
+      "size": "xl",
+      "vendor": "Aurelia",
+      "type": "Jeans",
+      "category": "TopRated"
+    },
+    {
+      "id": "6",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/8_b33da696-f360-412c-bcc9-163576e683a8_1024x1024.jpg?v=1683520431",
+      "name": "Estado De Desarrollo",
+      "price": "526.00",
+      "size": "md",
+      "vendor": "Orion",
+      "type": "Maxi",
+      "category": "TopRated"
+    },
+    {
+      "id": "7",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/3_8e0472f1-d378-44b4-8b27-b2bec59be570_1024x1024.jpg?v=1683520401",
+      "name": "Algunas Veces Por",
+      "price": "519.00",
+      "size": "xl",
+      "vendor": "Creature",
+      "type": "Hot Pant",
+      "category": "TopRated"
+    },
+    {
+      "id": "8",
+      "image": "https://maroko-demo.myshopify.com/cdn/shop/products/2_b1b520e6-5c9e-4777-a23d-56c7d8413016_1024x1024.jpg?v=1683520385",
+      "name": "Affiliate Product",
+      "price": "439.00",
+      "size": "lg",
+      "vendor": "Aurelia",
+      "type": "Gown",
+      "category": "TopRated"
+    }
+  ]
+}
